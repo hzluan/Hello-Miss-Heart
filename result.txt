@@ -1,0 +1,1 @@
+fuckpm,all,any,open,str
